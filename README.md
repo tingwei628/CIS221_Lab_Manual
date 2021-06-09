@@ -15,4 +15,4 @@ This is the lab manual for the Cochise College CIS 221, Digital Logic, class. Th
 * Lab 11: Simple Processor: Students build a very simple processor for this lab. While it is not a Central Processing Unit it does show students how a code can control the flow of data around a simple loop and would be the most rudimentary introduction to CPU design.
 * Lab 12: Elevator: This is a capstone project where students are given specifications for a simple elevator simulator and challenged to build that circuit.
 
-This book was written with Latex and can be cloned and re-purposed as desired. The accompanying digital logic text book can be found at  http://bit.ly/2w6qU2C. Also, the author created a series of YouTube videos to help students complete each of these labs. Those videos can be found at http://bit.ly/2KLMcoc.
+This book was written with Latex and can be cloned and re-purposed as desired. The accompanying digital logic text book can be found at  https://bit.ly/3w8vBUb. Also, the author created a series of YouTube videos to help students complete each of these labs. Those videos can be found at http://bit.ly/2KLMcoc.
